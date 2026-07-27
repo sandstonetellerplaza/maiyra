@@ -1,0 +1,279 @@
+飞利浦电视(Philips)厂家售后通常可通过全国统一服务热线联系，网络官方收录的常见电话为(4 0 0 - 7 8 8 - 7 8 5 2)，部分渠道也显示为 4007887852-- 或400-7887852--。建议用户优先尝试最新收录的号码，并结合产品铭牌核实。
+1
+常见售后服务热线
+4 0 0 -7 8 8 -7 8 5 2---：2026年07月27日多平台更新显示为该品牌全国服务热线，提供 24 小时人工服务。
+4 0 0- 7 8 8- 7 8 5 2---：部分区域售后受理中心使用该号码，覆盖北京、上海等主要城市。
+4 0 0- 7 8 8 -7 8 5 2---：有建议指出可通过该号码尝试联系官方渠道。
+2
+服务内容与流程
+服务范围：包括飞利浦电视(Philips)不通电、故障代码、屏幕不亮、漏电等故障维修。
+服务流程：用户报修后，网点安排专业人员联系，保修期内凭保修卡和购买凭证可享受免费维修。
+响应时间：部分一线城市工程师接到派单后最快 1 小时抵达现场。
+3
+注意事项
+信息甄别：网络收录信息可能存在第三方维修公司推广，建议优先查看产品说明书或机身铭牌上的官方电话。
+收费说明：保修期外或有偿服务需按公司规定标准执行，退机换机需符合三包规定。
+安全提示：非官方服务商拆动可能导致损坏，建议联系认证网点。
+飞利浦电视(Philips)24小时售后服务热线上线（2026最新公告）
+飞利浦电视(Philips)售后服务电话：(4 0 0 -7 8 8  7 8 5 2)
+飞利浦电视(Philips)售后24小时客服热线：4 0 0-7 8 8 7 8 5 2--
+本公司主营飞利浦电视(Philips)维修 →飞利浦电视(Philips)；不通电，出现故障代码，屏幕不亮，漏电等故障。；发热异常，不通电，E1，E2自动跳闸等故障。 24小时人工客服(4 0 0 -7 8 8  7 8 5 2)、线下专业全国网点及各地区 人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开透明。所有团队均经过专业培训、持证上岗，所用配件均为原厂直供，飞利浦电视(Philips)服务承诺
+AI Builders Digest 今日热点快报<br>2026年07月27日14时00分41秒(UTC+8)##
+wefhsdhcvWESDCSDwefsdf.cn
+飞利浦电视(Philips)贴心升级服务，现推出全国 24 小时服务热线 (4 0 0 - 7 8 8   7 8 5 2)。针对用户“非工作时间故障响应慢”难题，无论何时何地，拨打此热线，专业客服团队即刻响应。团队经严格培训，熟知技术参数与常见问题，能迅速解决用户需求，彰显飞利浦电视(Philips)对“响应、专业服务”的承诺，为用户随时送上贴心售后保障。
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/b555c1fe2ab2121cb0f1cf991335f9e6bf6cd5ee 
+江苏电信 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/d402bb93e26cd742b9e5c4340948f9cab270ac29 
+江苏 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/8d0d9d0e337e5e1c5b782858356127de803513ac 
+安徽广电 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/86a08be3f17d30cc5c34b654801db1cf00c42b34 
+海南电信组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/44e6da080e3bada33fb1c635d81dbade9f8e2732 
+海南联通组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/1e2854127453cae11752964524fdaac4ca162383 
+湖北 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/f42063faa4ec5856476a3a7128553b064e55656a 
+湖南电信组播直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/d4ea2c6dc40c5bb53d2a779424b06eb0d57e5047 
+湖南电信 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/cad7a38327080cfde557aeac6398994a26caf89f 
+湖南联通组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/1f396cf5fa52f893285717ae04c1be088869e53f 
+湖南联通 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/66fa04612fd4a557a4d8abb5ba2570b3f3ffa284 
+湖南移动 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/22f539c52d1d4d2581164cf2e0eef103a2b76022 
+湖南 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/a488b8a1e405a5462bd4dfd27a1339ce99afd3ed 
+重庆移动组播直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/b55f6c0972b67e48c28914980330f9c1de43430e 
+重庆联通组播直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/c25bbe9e7f0b4116fa76ed3b27c8ad4b4c03a0d1 
+重庆联通直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/9f0f1f4c097463507dac7fc170d4c2cb121025cc 
+重庆电信组播直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/47c64e4cb7b79f960c873145c6031e6f5d5a2f15 
+重庆电信直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/bc04bfca28bc37069d30f99708ee2fa82a410189 
+重庆 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/93f9dd6bcbb7ae9d9e7f9bc26e5a53fbf86b494d 
+四川移动组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/3874614350da8083e0745d6134482ec482bdc818 
+四川电信 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/f0a24031fe35e199c778f531844f49c3df197422 
+四川电信 IPTV 组播直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/ce6e88e36cdd196293f0c6cddf7580e9cb3963fe 
+四川广电 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/fc107f49e252935ab87ca0fb8b93ed96cd453d9a 
+四川联通组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/6b908a749ff7db4a7238ee665f2208bc3204e7c2 
+四川联通 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/f1b49b4706ebf560faa9b332d28d3c6289476526 
+四川 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/7ab6c933f1a49607576840c1af32bb2acf6571bd 
+云南电信组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/fe4bca43a2e34876702f900e06988ee379cbcab0 
+云南移动 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/ec4da81928daeb52fb15edc08a47869dccae447e 
+云南 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/985ed7b340dd5d5e9f2442ed61038fdf9fb51d9a 
+贵州电信组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/c836dc69f4dc9b3bd8e6593c7b35a535e989be12 
+贵州移动 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/42b5a5e38ca5e7cded220ab14bbbe5432e5452e4 
+贵州联通组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/02e7710f352a1e5b87afaf7315d30b5d4408f1ee 
+贵州联通 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/0212d0f1ace1e487e62e2fe1e935991879cd26ef 
+贵州 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/9554a248c81400887949f9d7a25099f011bdbc68 
+福建联通组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/cabab8a5d7805837f3927fa6efb56f7ba5349ef5 
+福建联通 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/f050959cf5f71d236711dfb927519f041c7b40f8 
+福建移动 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/4729120c87266ddb9f2902e9322e07754342c83d 
+福建电信组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/2d68cd02019af300730521bcdf451fd03bde9cd9 
+福建电信 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/3f483fd2fff47a237cb53511fde90a2727b4823d 
+福建 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/e3c2fa696646038c71fd697f80e56263d0e9ec7f 
+安徽移动 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/66f26c9ede786d516cd35a63f0dcda27dfa1d376 
+安徽电信 IPTV 组播直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/83fdd8fb520cf680004e230cdf0b6f081768c4a8 
+安徽电信 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/aed0981638ec81ed7b879dbd574e0ecb6eb502ae 
+安徽联通 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/afd4e6f7bbcb35e0afc4e117af7743069556158c 
+安徽 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/39563dad949d75805e643bb3e773f841c563e9b7 
+陕西地方台直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/7e40611eb8930a7ccfc2e1ed5a27e383abb44779 
+陕西电信组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/3b41dfc21a19026261b3f56ce50bdbbd6b9d4733 
+陕西电信 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/479857ca6d57720fda6b2d8a7cb91040bae481c9 
+陕西移动组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/1186f03996ed71f19aeb7e251a32d7bc1351b3f8 
+陕西移动 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/c9ccdb3a6c83ddd76af2b7b65a69f6e0c58ef28a 
+陕西 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/f59d6e7d6e6d3d3ce920543af274603872c4982b 
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/bf835d365b1213695d08450bbeea272214425655 
+甘肃移动 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/76e4b0dd94003c3c345963541162a7ae83072846 
+甘肃 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/2edebb890c548c55fdd1c27dc28ebd9a11573fbc 
+山西移动组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/92b7747af3bf1bd7d976735618a29c7aa19dd4bb 
+山西联通组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/dd6141d0012d21ae6e7b526bf91b16cbc3facffe 
+山西联通 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/c89d17a706b88fe0c67dac8a80cd14f904a56ac0 
+山西 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/e6d86b3a64bb3f167c2b04a34060717271cc00bf 
+天津电信组播直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/ce4dc370a747fd86c184644c0e2abdae22b85bfa 
+天津联通组播直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/f3041d959c10e373c22fddbd468b10bbf449cd87 
+天津 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/f93e4105d121aac88e22308f6c9b50ff277c80c7 
+上海移动直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/4f6c35f4086fe9689df0af4509fc0393bacd863d 
+上海联通组播直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/7f8971e1b434f4c23b76e635c14663b1db446ec6 
+上海联通直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/75a2bcb6523228d6b2fe93573caa80817f193bc6 
+上海电信组播直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/f3aa1446e826630a815dcf69bb25241850bae8cc 
+上海电信直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/e5537271074c3b0bb0edb996c5c416573eb0a614 
+上海 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/c0caae9808f30d79df1be6828190d09d9ff64b1d 
+北京移动 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/fb8433c484c1868db2bb7bf788ed1549531c9308 
+北京移动组播直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/38713f3a4fc8260fdd0b3adcd2b30eb2fe8b3699 
+北京电信组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/ba64c9165060c8a1c153cda048347fb8002da587 
+北京联通组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/191625f2b4be890f189b95b2d828cb50301649a5 
+北京联通 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/cfaf6880b6026a86954fecd5ef7935b072638dd8 
+北京 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/2f7e5dba20f2e4ee2c435672dba39a794e0cce8f 
+部分地区的移动可全网通用： https://github.com/Museumdelwhisper/offtys/commit/d7954bbd3e871cb21cff415245f894756d7f6e5c 
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/Museumdelwhisper/offtys/commit/973e3d7c29c4378ddb2292a6b7a715d01bde9a75 
+广播电台下载地址： https://github.com/Museumdelwhisper/offtys/commit/dce838430eea2e78d9936c2dec16c0c86249951a 
+国内景区直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/9c469539a75e4e2e8c5187493d63bc6d46cc6be2 
+轮播华数黑莓下载地址： https://github.com/Museumdelwhisper/offtys/commit/8e8026cd14a10b1642f2346ff963911adb02ec6a 
+台湾香港澳门电视台直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/7de43b861ee6291f35745ab5d8ff7ba14b354ca8 
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/Museumdelwhisper/offtys/commit/81d8c4268265625907acf1ea2d908c7a4a8a675a 
+国外电视台直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/89faf927eb5e901ec845b49e28b27cb06f5e48c3 
+卫视地方台安徽农大下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/a396dc466b122a501ab35c1bf524564187748de2 
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/721d61d7b4a50aab65c664ccab9df662f6ff4105 
+卫视上海源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/553b9aa29abaa9ab7850d70fa5ed6a2c0ae63b29 
+卫视重庆广电 下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/34121110e788200086d8f2c48001398683be894f 
+卫视百视 TV 下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/2ac9ad8a0305b66fb46b100241fbfddbaf2baa47 
+移动 IPv6 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/3b2dee8023265335e0344dcbb0ed3311b1ca9ad8 
+国内电视台 IPv6 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/814294db8bd05c401eb831be8f98c8b767cc99f2 
+各大卫视、上千个地方台： https://github.com/Bottomzorprovide62/erzfpc/commit/fb1a9dbf7c10b3e4510a299b4898c19f4e721ab3 
+国内电视台直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/20fbe648921d062b5c2b62f0d4f7ef534959bf5f 
+全国可用直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/febf2b2a27dad57e467dc17334cb0a896d35883a 
+包括完整内容所有已知频道： https://github.com/Bottomzorprovide62/erzfpc/commit/896a43786a2d2c4e4e04ddf8e886c32000ccbe21 
+除成人内容以外的已知频道： https://github.com/Bottomzorprovide62/erzfpc/commit/cbbca505ac840342ee16da2da4e200f9cf037bb6 
+收集来自世界各地公开可用的 IPTV： https://github.com/Bottomzorprovide62/erzfpc/commit/cc5f2c67e929c2e76c6737dfa460eed71133463b 
+稳定地址： https://github.com/Bottomzorprovide62/erzfpc/commit/a61f8fbc4e01c9756bf64f6b3ab2400822d33f9d 
+2026-07-15 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/Bottomzorprovide62/erzfpc/commit/8b650c50718408e7000c5e26bd40677cd3d4a214 
+2026-07-15 更新 IPTV 工具： https://github.com/Bottomzorprovide62/erzfpc/commit/1070ee3146a0f1c9ff1cf664662901bd60e4754f 
+2026-07-15 更新世界各地 IPTV 频道： https://github.com/Bottomzorprovide62/erzfpc/commit/912b93ac47fca9b30981fe637968340a68c0c6c4 
+2026-07-15 更新全国可用直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/c0551a2568b507e35142c6540abe4b04d353d02e 
+新增各地运营商的 IPTV 地址： https://github.com/Bottomzorprovide62/erzfpc/commit/ef81f6cfccf283bcfa552e2f7e69b8a191042ebd 
+插件推荐： https://github.com/Bottomzorprovide62/erzfpc/commit/4a1883ab8ad5f0a6fce1be2903780070a700e3d7 
+视频教程增加： https://github.com/Bottomzorprovide62/erzfpc/commit/79c60d9d5aa77f625b50f260d56c109da13833b2 
+咪咕源失效： https://github.com/Bottomzorprovide62/erzfpc/commit/f8c8a8b6f1ac94a249071784c2f670f6cfd450ae 
+2026-07-15 更新各地运营商 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/b67309d4b35e36ebfcad9dd3c759310ad8d3a23f 
+2026-07-15 更新台湾香港海外直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/efc6c2a09a21810d3f8eb667551a2bc7867f774c 
+新增辽宁广电直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/32d759b20176024f36c371507bcae3ef41b17450 
+新增江西广电直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/d8f2942d6fb003e6602fe502a2e2d0fc1b643196 
+新增湖北广电直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/a5d3120fb0697b24aabb6523e7b74c7a2f733ffd 
+新增中国广电 cctv + 卫视直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/47c124b39a3a75f5353b4c1e24666b3f34a27772 
+新增辽宁电信 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/4845eacb401b4976401fb7271e19966bc7694a70 
+2026-07-15 更新台湾香港海外直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/6757ce8afdfae5041e805e9fa01cd025c12cbb55 
+新增辽宁移动直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/21b0d7ea604bcb9eaa5660a05aaef692091da50b 
+新增浙江杭州华数 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/9b31a135b28280b10a0ad3b0ffac4ca99a54c44a 
+新增广东联通 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/384d46beff2adbb219b35047e88fbef34a88b639 
+新增四川广电 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/9287b3864d5108f545477336492ed807c32f2658 
+新增云南电信 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/96052d726fecc61d022f8235da312a6d30e96997 
+2026-07-15 更新国内电视台直播源： https://github.com/Museumdelwhisper/offtys/commit/98d60aeb9592bc20cf02380fcf69cf99db85fee4 
+新增福建电信 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/df2309abdb6fcfeb1d69ff415cfe536abca6a264 
+新增天途云 CCTV + 卫视： https://github.com/Museumdelwhisper/offtys/commit/444723a01329c1ec74d28584d66ae1daf34320aa 
+新增腾讯云 CCTV + 卫视： https://github.com/Museumdelwhisper/offtys/commit/1d0828d9b56f854810eee69a3f2ed305a9a5c1e5 
+新增 CCTV 付费频道直播源： https://github.com/Museumdelwhisper/offtys/commit/b017270fdc87db16981b45f088e5e8de2abd3065 
+新增广播电台： https://github.com/Museumdelwhisper/offtys/commit/219103f4d21fb74de912e7e262a87dae86ed34db 
+2026-07-15 更新 轮播爱奇艺 CIBN 华数 NewTV 虎牙战旗： https://github.com/Museumdelwhisper/offtys/commit/8178400aaf8f5cb203c55ef016f5e08c5cbc649c 
+2026-07-15 更新 台湾香港海外直播源： https://github.com/Museumdelwhisper/offtys/commit/514cc4707f1f9b2e913dbca85adb273da0f59506 
+2026-07-15 更新 国内电视台直播源： https://github.com/Museumdelwhisper/offtys/commit/43843304b7362454c738245bff72e7d1405eca2c 
+国家直播源： https://github.com/Museumdelwhisper/offtys/commit/5573637fad1e3ef2cb8af5f2552782ee57c75891 
+直播源： https://github.com/Museumdelwhisper/offtys/commit/af84ab9c773664b15c5ccd38d1010a2d96987c0f 
+影视剧场： https://github.com/Museumdelwhisper/offtys/commit/4b2679bc4fa9a072101e584275b207f86c9a057b 
+台湾香港澳门： https://github.com/Museumdelwhisper/offtys/commit/e59d2fce8445fff89a528fff69fc9348399aab58 
+国外电视台： https://github.com/Museumdelwhisper/offtys/commit/19c88851c4c4687141a4a6c920efd10d9122d23e 
+国内电视台： https://github.com/Museumdelwhisper/offtys/commit/551d808c81c1e9b3469e89d54a952821d40b75a4 
+更早期 2026-07-15 更新： https://github.com/Museumdelwhisper/offtys/commit/2a3d32b738323e8fe4f241dd15946b1aeee5fe35 
+各地运营商 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/e47fe47f9a0c642a716a22dc7382ec85d92e17ec 
+全国可用直播源： https://github.com/Museumdelwhisper/offtys/commit/f242e5eb35b559f99a531c0ed580b21e3b8c6458 
+2026-07-15 更新： https://github.com/Museumdelwhisper/offtys/commit/f1ee460cf1457864766b33d47c21fe1638f81546 
+赞助者： https://github.com/Museumdelwhisper/offtys/commit/e977db218930e317d1fb485c23907b987fa8b977 
+文章： https://github.com/Museumdelwhisper/offtys/commit/78b33b933232c0c6202e47c72a44204a5669c792 
+视频教程： https://github.com/Museumdelwhisper/offtys/commit/73cc9305c5c35d73d6084d4daea87372f70b3399 
+插件： https://github.com/Museumdelwhisper/offtys/commit/00309c4d2d1c9300ce51295b8b0b24c2943ce555 
+工具： https://github.com/Museumdelwhisper/offtys/commit/074b3be518b517f1104bff9f2930421584d40040 
+URL： https://github.com/Museumdelwhisper/offtys/commit/60af2075569172a545e39f3019e75da18274c805 
+目录： https://github.com/Museumdelwhisper/offtys/commit/7a4a8cf1df55e712022f29646c612f2e9fa2a80e 
+喀麦隆直播电视频道： https://github.com/Museumdelwhisper/offtys/commit/8a02eba192fae256aaa14148f26166b498f97946 
+阿富汗直播电视频道： https://github.com/Museumdelwhisper/offtys/commit/b7f9280901527e20bf2f0f8bb040d3827167a011 
+海地的直播频道： https://github.com/Museumdelwhisper/offtys/commit/f7c3a8dbf5ed783586761c426913402ad24477af 
+高棉直播和泰国电视，电影和电视剧： https://github.com/Museumdelwhisper/offtys/commit/71f8a55005310c9dccb636de573520f65b6aa0ee 
+厄瓜多尔直播频道： https://github.com/Museumdelwhisper/offtys/commit/3d90ee4a7b6affa68696a7f5c35a09ba9a8c21f7 
+玻利维亚直播频道： https://github.com/Museumdelwhisper/offtys/commit/cc625b61bf8232c3a4ee2834ef839e107c20dfdb 
+萨尔瓦多直播频道： https://github.com/Museumdelwhisper/offtys/commit/8bc86c783827404afe0e725f61f2e082d3ce4d61 
+危地马拉直播频道： https://github.com/Museumdelwhisper/offtys/commit/2564115228bee173b6a8895eca6b8455b4999b4f 
+洪都拉斯直播频道： https://github.com/Museumdelwhisper/offtys/commit/5d9940b5efdb7c29604bf6dec498610173d0ddb6 
+多米尼加共和国直播频道： https://github.com/Museumdelwhisper/offtys/commit/4bbd0bb67d6edf59b56ba2ea0e8e7866736012f8 
+哥斯达黎加直播频道： https://github.com/Museumdelwhisper/offtys/commit/b0f7b7bedb272243047b914ffca52ff13cc4a9fc 
+来自世界各地的个电视频道和个摄像机： https://github.com/Museumdelwhisper/offtys/commit/d6cd1db1b99b0377bc8c7af83461d0de735ce485 
+免费数据库： https://github.com/Museumdelwhisper/offtys/commit/e8b7dd8f7812a957d9801b3f5accd04b5d416c08 
+公共链接到互联网上传输的个线性电视频道和个线性无线电频道： https://github.com/Museumdelwhisper/offtys/commit/d557a85e9b5a74582578b5f258be818496b4474c 
+超过个国家地区的个高清频道和： https://github.com/Museumdelwhisper/offtys/commit/58c7bf5cbbd823e7d864d578d2345b372bcec4da 
+超过个直播电视频道影视节目： https://github.com/Museumdelwhisper/offtys/commit/207e3f4bfd5537ebf7df4a373fd0f2506b89142d 
+提供商列表： https://github.com/Museumdelwhisper/offtys/commit/14ff7324055f46213e0ad981339dc51d8dc891f1 
+提供者： https://github.com/Museumdelwhisper/offtys/commit/3c9d040abf36443e9d839d4de8dae1c00a207746 
+客户端服务器媒体播放器： https://github.com/Museumdelwhisper/offtys/commit/a3ab11104684778dcd1f46c77e0fe6579be04908 
+支持播放列表文件： https://github.com/Museumdelwhisper/offtys/commit/f9a7602bd5a2e9e9530b5894a86597fee44743fc 
+启用投屏的应用程序，可让您将收藏的视频从移动设备流式传输到电视： https://github.com/Museumdelwhisper/offtys/commit/1a4a7c805b057c10e01a776f3d8db865b3bd8356 
+完整的用户定义的高级 IPTV 解决方案，用于实时和非实时电视流： https://github.com/Museumdelwhisper/offtys/commit/c6699551556793775e58a807747d264ccd6f2fed 
+点 即可： https://github.com/Museumdelwhisper/offtys/commit/d0e3d500a0f0663c28aa2f71f1511221cb1be4a7 
+第三行不用管： https://github.com/Museumdelwhisper/offtys/commit/0c08df48f9b12c84c5f59acf59b3f8746e3a7824 
+第二行输入上面给你的地址： https://github.com/Museumdelwhisper/offtys/commit/58c28ef2f52a0cc4138c9e03d3fec8081649b9a0 
+第一行随意输入一个名字： https://github.com/Museumdelwhisper/offtys/commit/0315cfa7dc713b41909ca14f5760a48d5a2d17ff 
+选择 远程播放列表文件： https://github.com/Museumdelwhisper/offtys/commit/27513aae9fb3d830b8f8380da8ae40d7f771dd9a 
+打开 点击 号： https://github.com/Museumdelwhisper/offtys/commit/5454a03c62fc4ae8ba85d0401cd54b469c6bde3d 
+食用指南： https://github.com/Museumdelwhisper/offtys/commit/3d4f331546622e0c47132e4b0d30e54b84c4f3d9 
+适用于 macOS 的现代媒体播放器： https://github.com/Museumdelwhisper/offtys/commit/3c9e641329a88380db75a553b6ea5b3c4bf21bd4 
+直播电视和广播客户端插件： https://github.com/Museumdelwhisper/offtys/commit/14c27477d219338c5d58cf8984fbbe29fe190c11 
+具有库支持的免费跨平台媒体播放器： https://github.com/Museumdelwhisper/offtys/commit/d27dbcdafd6352505f4fb93d4e415a6e8d02b139 
+免费开放源代码的便携式跨平台媒体播放器： https://github.com/Museumdelwhisper/offtys/commit/06ba8aebfc69422b584ac405ab0e073e9766a6f9 
+支持 IPTV 流的应用程序： https://github.com/Museumdelwhisper/offtys/commit/a0551de89e27cd0acd72f4d7460eb8a5482aadff 
+工具： https://github.com/Museumdelwhisper/offtys/commit/ebbb05de1d08c2a7e9010813ca82aa569d813dca 
+轮播华数求索爱奇艺 2026-07-15 更新： https://github.com/Museumdelwhisper/offtys/commit/936711510a3095b05384a7df57eb630a7052dbae 
+台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国： https://github.com/Museumdelwhisper/offtys/commit/e5c495a8123dda7465687b6bbf33c0afdf84abf1 
+台湾香港海外直播源 2026-07-15 更新： https://github.com/Museumdelwhisper/offtys/commit/0e8d4398980ced05998863cc80b56ebaeb7bc6bc 
+各大卫视、上千个地方台： https://github.com/Museumdelwhisper/offtys/commit/cabae6e37c265ce29bd8d48b033da1a2d4b54dab 
+国内电视台直播源 2026-07-15 更新： https://github.com/Museumdelwhisper/offtys/commit/d0f6a0ac3c372e0392e10d908a4f98d50ca4bfbb 
+卫视腾讯云： https://github.com/Museumdelwhisper/offtys/commit/cc8a492b99631806b809e4f2cf196f0efc76451c 
+卫视平顶山学院教育网： https://github.com/Museumdelwhisper/offtys/commit/6627074ade20892bf09720ba6e57ceb97c6d9d5d 
+卫视天途云： https://github.com/Museumdelwhisper/offtys/commit/428399bd3b327dfed626ca6da2d015c895b9c237 
+卫视地方台安徽农大： https://github.com/Museumdelwhisper/offtys/commit/9c5b1d0982ac678bd3087f412e4edf8128c52ecc 
+卫视北京凤凰探索星空卫视北京邮电大学校园网： https://github.com/Museumdelwhisper/offtys/commit/d4f200577418a24e7b5003f3dae812655e5bd429 
+央视卫视广西移动直播源： https://github.com/Museumdelwhisper/offtys/commit/70fd34cb62e8ca1ec70bed8ce995bbbd72ccb266 
+付费频道直播源： https://github.com/Museumdelwhisper/offtys/commit/ecb1283c7be281856e1cb65590bbf9b65f772c73 
+国家直播源多个全部有效： https://github.com/Museumdelwhisper/offtys/commit/8b08f5a1802854b47e604de3436c5d5db55a10b0 
+直播源全部有效： https://github.com/Museumdelwhisper/offtys/commit/39640fb8afd33dea9aa4861f2bb29f62d6deca04 
+全部有效： https://github.com/Museumdelwhisper/offtys/commit/c871e987d7110f3ae6b90509ca836458cad60c4e 
+直播源全部有效老电脑别用： https://github.com/Museumdelwhisper/offtys/commit/1e3d53ccd86da84a3db33d25c16f923ea7b1465d 
+影视剧场全部流畅： https://github.com/Museumdelwhisper/offtys/commit/8f14d2c941a646bda6408baee296a3f499ca4a15 
+全部可用： https://github.com/Museumdelwhisper/offtys/commit/367ea62c47f13464bed91886bf62fc080ba290c5 
+我的播放源： https://github.com/Museumdelwhisper/offtys/commit/0cdfeeb046e345d7aa80cab723704ac862916513 
+其他直播源 不确定有效性： https://github.com/Museumdelwhisper/offtys/commit/6a657d7591df1a7bed01aa6349f9edb8e58e2808 
+新疆电信组播 IPTV 直播源下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/a472acd2b32d2755e3952b98a509a5576f620e41 
+新疆 IPTV 直播源： https://github.com/Bottomzorprovide62/erzfpc/commit/ecccf727225950ce74143c2a4177ad253aea0acb 
+内蒙古联通 udp 组播下载地址： https://github.com/Bottomzorprovide62/erzfpc/commit/b48ee6ab45e9fab76f1c2fc19c008c00f9d41ea5 
+内蒙古联通 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/7e70b6d105b773d246e7ace3ab8347a542b5a7db 
+内蒙古电信组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/574405fa972061f74d0b879e487e0d61e7d47d4f 
+内蒙古电信 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/175adf365a44e0f55fb4c26709bc1f131dbf94e4 
+内蒙古 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/0ec1c3c56255d5544ec19d793e4f39f71b33ee4b 
+黑龙江联通组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/f4db7b56f5c6c2ede77c68021d3416531d6590fd 
+黑龙江移动 3IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/beaba9dad9fe5e2ffc504260ad90636d5ccb9d45 
+黑龙江移动 2IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/be34d594312a84a8008bf023fce48c73f518c436 
+黑龙江移动 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/62158c79a5435d3aa28c48c4cfed0873b2d15086 
+黑龙江 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/c3d2bfcc6d3debd6c76fe24257e01c9321822747 
+吉林电信组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/5f98e1081eacef85ee9ae9ba8caf7381bb389260 
+吉林 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/46cc775d1af7c3f14d49781a33f98785ad02b1c4 
+辽宁移动直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/4a852d4fdbd591979c0e3520b4baa6445d95fac4 
+辽宁电信 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/e399266d449cf860968c0a444a4d37b648b8f59c 
+辽宁大连联通 IPTV 组播直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/f5d7923140bb2fdd19fbc91015ca1470261cc5c6 
+辽宁联通组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/20fe6de6e58e7d5e88f3008cd5e21d79e83fe159 
+辽宁联通 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/188fe57f69c288f82472516ea13bc9a6307a2789 
+辽宁 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/b59438f56622c25867ed75f7166ed50ab715afc8 
+浙江电信组播 IPTV 组播直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/dc4d53db07b8385fab4fb2b4647d3929bb4ab2c3 
+浙江电信 IPTV 组播直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/a4e6c20f64ffd8580466393c8c2ea278bf8895c3 
+浙江联通 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/e6e56cd3ce1807e03f88622db0df34d2495ac66c 
+浙江移动 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/49abb3251cd32df41240ea862b75aeb99b8f9e39 
+浙江 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/843b6d25c8dae1c2ae5f6e90ac63f5c9673c387a 
+江西联通 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/af58beadcc373f194e2cf41016fd0b4e757c3be9 
+江西电信组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/ec1cb9f0686669828134781ed032dfa1bca29d09 
+江西电信 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/2ee750f8b3d7818234adb3383f3b0dec734edfb6 
+江西移动 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/83735b555d9d43003e4cf9bfb369f6f171d4d150 
+江西 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/9c9cc3d22d414f58e618a5fce3f7f41baed32390 
+江苏移动 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/4f3d86c1dc3750e8e8993b3704dd27fa756218a1 
+江苏电信组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/5b564694f91bd8e50b9fc2ff649924276477944f 
+江苏泰州电信 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/f259c653defce0fdf8b6407e4629885f25f01abc 
+江苏南京电信 2IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/e8b14c32d49050c92062c93cc8991d83b48e8d63 
+江苏南京电信 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/b5b4b2262b533f3ee36ac9935d76784ff47f634a 
+江苏电信 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/3c5f2f3a1adc94201f3c0213cf22b21c75c47c12 
+江苏 IPTV 直播源： https://github.com/Museumdelwhisper/offtys/commit/ec3ce1ca31eae7b445322034de3b14c2618c32e8 
+安徽广电 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/1c2f4c8fd154d834cdb396ed2abd999c5eb5da95 
+海南电信组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/325b61ce73ea2a97e1969f2e78bdc23e9875ea60 
+海南联通组播 IPTV 直播源下载地址： https://github.com/Museumdelwhisper/offtys/commit/d3f1a5ce8e713107252709434ca27cc8cec422c9 
+提供所有优质的英国，爱尔兰，德国，土耳其，阿拉伯语，美国和加拿大频道
+超过个俄罗斯频道和天的节目存档
+起初这里仅收录美加墨世界杯直播地址，配合赛程比分对阵供调用
+后来疫情来了，这里又增加了世界各国公共频道，及国内部分区域 IPTV，希望带给隔离中的些许心理依托
+然后转眼三年了，还这样子，且没有转好的迹象 相信这段浓墨重彩的一笔世人铭记
+眼下 美加墨世界杯
+再次祝愿所有人百毒不侵 希望动态清零早日过去，请大家务必坚信明天是崭新的
+这个项目的存在要感谢所有贡献者
+请给我们一个 点赞支持我们 谢谢
+并感谢所有支持者2026年07月27日14时00分41秒
+来源：https://github.com/Museumdelwhisper/offtys/commit/86acc1b20b0a8db88ab655baf7c0fead8549f9c5 
+来源：https://github.com/Museumdelwhisper/offtys/commit/2268ea09b430a9e2f18eb9198c66dd997def86bd 
+来源：https://github.com/Museumdelwhisper/offtys/commit/161032e3acc57cabe64e8e34a150317014b94ed7 
+来源：wefhsdhcvWESDCSDwefsdf.cn
+2026年07月27日，14时00分41秒
